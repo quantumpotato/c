@@ -1,9 +1,7 @@
 CFLAGS=-Wall	-g
 
 clean:
-	rm	-f	exl
-	rm	-f	ex3b
+	rm	-f	++i
 all:
 	make clean
-	make exl
-	make	ex3b
+	make ++i
